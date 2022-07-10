@@ -138,7 +138,7 @@ h1{
  color: white;
 }
 #store{
-    background: url(images/store.jpg)no-repeat;
+    background: url(store.jpg)no-repeat;
     background-repeat: no-repeat;
     background-size:1600px 300px;
 }
