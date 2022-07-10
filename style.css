@@ -6,27 +6,27 @@
 
 
 #plant{
-    background: url(images/main.jpg) no-repeat;
+    background: url(main.jpg) no-repeat;
     background-position: center;
     background-size: cover;
     height: 100vh;
 
 }
 #about{
-    background: url(images/about.jpg) no-repeat;
+    background: url(about.jpg) no-repeat;
     background-position: center;
     background-size: cover;
     height: 100vh;
 
 }
 #login{
-    background: url(images/3.jpg) no-repeat;
+    background: url(3.jpg) no-repeat;
     background-position: center;
     background-size: cover;
     height: 100vh;
 }
 #contact{
-    background: url(images/5.jpg) no-repeat;
+    background: url(5.jpg) no-repeat;
     background-position: center;
     background-size: cover;
     height: 100vh;
